@@ -12,7 +12,7 @@
 4. Autoencoders Example: [autoencoders/Autoencoder_fraud_detection.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/autoencoders/Autoencoder_fraud_detection.ipynb)
 5. NN for images: [images/Images_1.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_1.ipynb)
 6. Convolutions: [images/Images_2.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_2.ipynb)
-7. Convolutional NN: [images/Images_3.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_2.ipynb)
+7. Convolutional NN: [images/Images_3.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_3.ipynb)
 8. RNN and text classification: [text/Text_1.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/text/Text_1.ipynb)
 
 
