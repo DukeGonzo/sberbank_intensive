@@ -16,10 +16,9 @@
 8. NN for text: text/
 
 ## Homework
-Homework/HW conv.ipynb
+[Homework/HW conv.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/Homework/HW%20conv.ipynb)
 
 ### Additional materials
 1. [Video lectures on Convolutional NN](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 2. [Video lectures on Networks for text](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja)
 3. [Book](http://www.deeplearningbook.org)
-
