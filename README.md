@@ -13,7 +13,7 @@
 5. NN for images: [conv/images-dense.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/images-dense.ipynb)
 6. Convolutional NN: [conv/images-conv-net.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/images-conv-net.ipynb)
 7. Convolutional NN features visualization: [conv/conv-viz.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/conv-viz.ipynb)
-8. NN for text: text/
+
 
 ## Homework
 [Homework/HW conv.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/Homework/HW%20conv.ipynb)
