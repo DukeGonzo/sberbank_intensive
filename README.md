@@ -22,5 +22,4 @@ Homework/HW conv.ipynb
 1. Video lectures on Convolutional NN - https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 2. Video lectures on Networks for text - https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja
 3. Book - http://www.deeplearningbook.org
-4. 
 
