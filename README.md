@@ -10,9 +10,10 @@
 2. Fully connected NN: [fully_connected/Fully Connected NN.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/fully_connected/Fully%20Connected%20NN.ipynb)
 3. Autoencoders Introduction: [autoencoders/Autoencoder_intro.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/autoencoders/Autoencoder_intro.ipynb)
 4. Autoencoders Example: [autoencoders/Autoencoder_fraud_detection.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/autoencoders/Autoencoder_fraud_detection.ipynb)
-5. NN for images: [conv/images-dense.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/images-dense.ipynb)
-6. Convolutional NN: [conv/images-conv-net.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/images-conv-net.ipynb)
-7. Convolutional NN features visualization: [conv/conv-viz.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/conv/conv-viz.ipynb)
+5. NN for images: [images/Images_1.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_1.ipynb)
+6. Convolutions: [images/Images_2.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_2.ipynb)
+7. Convolutional NN: [images/Images_3.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/images/Images_2.ipynb)
+8. RNN and text classification: [text/Text_1.ipynb](https://github.com/DukeGonzo/sberbank_intensive/blob/master/text/Text_1.ipynb)
 
 
 ## Homework
